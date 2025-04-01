@@ -1,4 +1,4 @@
-# Sustainability Pal 🌱 💫 (work in progress)
+# 𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𓍊 Sustainability Pal 𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𓍊 (work in progress)
 
 <a id="readme-top"></a>
 Hackathon Spring 2025! – University of New Orleans' ACM-W **x** Tulane University's Girls Who Code; <b>Theme</b>: Social Innovation or Sustainability
